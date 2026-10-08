@@ -1,0 +1,2 @@
+# Python-Data-Structures-A-Practical-Beginner-s-Reference
+A beginner-friendly Python reference repository covering Strings, Lists, Tuples, Sets, and Dictionaries through practical revision, examples, methods, indexing, slicing, nesting, comprehensions, mutability, copying, and real-world data manipulation. Built for beginners and freshers preparing for data science, analytics, ML, and programming. career.
